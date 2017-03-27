@@ -1,7 +1,3 @@
-import React from 'react';
+import { default as Utils } from './src/Utils'
 
-const somethingCool = () => {
-    console.log('here');
-};
-
-export default somethingCool();
+import { default as Input } from './src/Fields/Input'
