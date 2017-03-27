@@ -1,6 +1,6 @@
 {
   "name": "react-symfony-forms",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Symfony serialzed forms renderer",
   "main": "index.js",
   "scripts": {
