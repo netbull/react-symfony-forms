@@ -1,0 +1,28 @@
+{
+  "name": "react-symfony-forms",
+  "version": "1.0.0",
+  "description": "Symfony serialzed forms renderer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/netbull/react-symfony-forms.git"
+  },
+  "keywords": [
+    "react",
+    "symfony",
+    "forms"
+  ],
+  "author": "Aleksandar Dimitrov <netbull2007@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netbull/react-symfony-forms/issues"
+  },
+  "homepage": "https://github.com/netbull/react-symfony-forms#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
